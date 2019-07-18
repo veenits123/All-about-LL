@@ -1,5 +1,8 @@
 # All-about-LL
 ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png)
+<br>
+A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+<br><br>
 All types of problems that can be made/formed from LInked-lIst are coded in my snippet.
 
 For practicing questions on LL visit- https://www.interviewbit.com/courses/programming/topics/linked-lists/
