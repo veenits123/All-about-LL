@@ -1,5 +1,5 @@
 # All-about-LL
-
+![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png)
 All types of problems that can be made/formed from LInked-lIst are coded in my snippet.
 
 For practicing questions on LL visit- https://www.interviewbit.com/courses/programming/topics/linked-lists/
